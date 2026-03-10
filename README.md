@@ -1,5 +1,6 @@
 # Wireless_Health_Monitoring_System
 
+Log book link
 https://www.notion.so/Log-Book-FYP-316ba6ea69618020a2b4e11247bd43f1?source=copy_link
 
 *Guidelines on PCB*
