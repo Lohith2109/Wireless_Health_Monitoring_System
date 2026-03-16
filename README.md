@@ -3,6 +3,9 @@
 Log book link
 https://www.notion.so/Log-Book-FYP-316ba6ea69618020a2b4e11247bd43f1?source=copy_link
 
+Linkedin
+https://www.linkedin.com/in/lohithaksha-rajesh-ananth/
+
 *Guidelines on PCB*
 
 The PCB has two layers: F.Cu (front copper) and B.Cu (back copper). The vias in the PCB require a wire to be inserted through them and soldered on both sides to connect the two layers.
